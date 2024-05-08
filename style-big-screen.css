@@ -1,0 +1,46 @@
+body {
+    background: #db3244
+    }
+
+    .initial {
+        background-image: url("imagenes/gif-stickers.gif");
+        background-repeat: no-repeat;
+        background-position-x: center;
+        background-position-y: center;
+        background-size: 1800px;
+    }
+
+    .menu {
+    font-family: Lexend;
+    font-size: 3rem;
+    color: #000000;
+    margin: auto;
+    padding-top: 10vh;
+    width: 800px;
+    height: 150px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-between;
+    width: 120px;
+}
+
+.icons img {
+    max-height: 3rem;
+    align-items: center;
+    height: 100%;
+}
+     
+   h1 {
+    font-family: 'Raleway', sans-serif;
+    color: #ffffff;
+    text-align: center;
+    width: 1000px;
+    font-size: 100px;
+    margin: auto;
+    padding-bottom: 400px;
+    }
