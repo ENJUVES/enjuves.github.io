@@ -1,19 +1,13 @@
-body {
-    background: #db3244
-    }
+.initial {
+    background-image: url("imagenes/gif-stickers.gif");
+    background-repeat: no-repeat;
+    background-position-x: center;
+    background-position-y: center;
+    background-size: 1800px;
+}
 
-    .initial {
-        background-image: url("imagenes/gif-stickers.gif");
-        background-repeat: no-repeat;
-        background-position-x: center;
-        background-position-y: center;
-        background-size: 1800px;
-    }
-
-    .menu {
-    font-family: Lexend;
+.menu {
     font-size: 3rem;
-    color: #000000;
     margin: auto;
     padding-top: 10vh;
     width: 800px;
@@ -36,8 +30,6 @@ body {
 }
      
    h1 {
-    font-family: 'Raleway', sans-serif;
-    color: #ffffff;
     text-align: center;
     width: 1000px;
     font-size: 100px;

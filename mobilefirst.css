@@ -1,0 +1,30 @@
+.initial {
+    width: 90vw;
+    margin: auto;
+}
+
+.menu {
+    width: 800px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    font-size: 3.5rem;
+    align-items: center;
+    padding-top: 9vh;
+}
+
+p {
+    margin: 0;
+}
+
+.icons img {
+    width: 3.5rem;
+}
+
+h1 {
+    margin: auto;
+    margin-top: 2vh;
+    width: 740px;
+    font-size: 120px;
+    text-align: center;
+}
