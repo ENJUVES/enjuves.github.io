@@ -6,12 +6,21 @@
     background-size: 1800px;
 }
 
-.menu {
-    font-size: 3rem;
+.languages {
+    width: 500px;
     margin: auto;
-    padding-top: 10vh;
+    height: 2.5rem;
+    font-size: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 5vh;
+}
+
+.nav {
+    font-size: 3rem;
     width: 800px;
-    height: 150px;
+    height: fit-content;
+    margin: auto;
     display: flex;
     justify-content: space-evenly;
     align-items: center;

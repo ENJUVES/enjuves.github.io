@@ -1,16 +1,29 @@
 .initial {
-    width: 90vw;
     margin: auto;
+    background-image: url("imagenes/gif-stickers-mobile.gif");
+    background-position-x: center;
+    background-position-y: 250px;
+    background-size: contain;
+    background-repeat: no-repeat;
 }
 
-.menu {
+.languages {
+    width: 60vw;
+    margin: auto;
+    padding-top: 10vh;
+    padding-bottom: 3vh;
+    font-size: 2rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.nav {
     width: 800px;
     margin: auto;
+    padding-top: 3vh;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     font-size: 3.5rem;
-    align-items: center;
-    padding-top: 9vh;
 }
 
 p {
@@ -23,8 +36,9 @@ p {
 
 h1 {
     margin: auto;
-    margin-top: 2vh;
+    padding-top: 10vh;
     width: 740px;
     font-size: 120px;
     text-align: center;
+    padding-bottom: 500px;
 }

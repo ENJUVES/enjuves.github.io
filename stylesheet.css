@@ -2,7 +2,11 @@ body {
     background: #db3244
     }
 
-.menu {
+.languages {
+    font-family: Lexend;
+}
+
+.nav {
     font-family: Lexend;
     color: #000000;
 }
