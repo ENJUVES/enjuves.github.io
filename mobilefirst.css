@@ -10,7 +10,7 @@
 .languages {
     width: 60vw;
     margin: auto;
-    padding-top: 10vh;
+    padding-top: 8vh;
     padding-bottom: 3vh;
     font-size: 2rem;
     display: flex;
@@ -36,7 +36,7 @@ p {
 
 h1 {
     margin: auto;
-    padding-top: 10vh;
+    padding-top: 12vh;
     width: 740px;
     font-size: 120px;
     text-align: center;
